@@ -1,3 +1,5 @@
+//var value;
+//value = data;
 $(document).ready(function() {
 	$.ajax({
 		url: "https://api.github.com/users/+value"
